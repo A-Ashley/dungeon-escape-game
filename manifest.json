@@ -8,17 +8,18 @@
   "description": "A suspenseful dungeon escape game.",
   "icons": [
     {
-      "src": "assets/a-carved-dungeon-wal.png",
+      "src": "assets/a-single-carved-dungeon-tile.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/a-carved-dungeon-wal.png",
+      "src": "assets/a-single-carved-dungeon-tile.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
 
 }
+
 
 
