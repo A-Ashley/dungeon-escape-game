@@ -2,7 +2,7 @@ Dungeon Escape Game
 
 Overview
 
-Dungeon Escape is a text-based adventure game built in Python and integrated into a portfolio website using PyScript. Players navigate a mysterious dungeon, make decisions, and attempt to escape. The game emphasizes suspenseful storytelling, logical progression, and clean user interaction.
+Dungeon Escape is a text-based adventure game built in Python and integrated using PyScript. Players navigate a mysterious dungeon, make decisions, and attempt to escape. The game emphasizes suspenseful storytelling, logical progression, and clean user interaction.
 
 Features
 - Interactive text-based gameplay with branching paths
