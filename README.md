@@ -24,13 +24,13 @@ dungeon-escape-game/
 
 │   ├── a-single-carved-dungeon-tile.png
 
-├── index.html
+├── README.md
 
-├── manifest.json
+├── index.html 
 
-├── service-worker.js
+├── manifest.json 
 
-└── README.md
+└── service-worker.js
 
 Known Issues
 - PyScript may not be fully supported on older browsers
